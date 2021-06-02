@@ -17,7 +17,7 @@ show_sidebar: false        # show a sidebar instead of the usual header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "panyu.pdf", title: "CV"}
+  - {file: "panyu.pdf", title: "CV",icon: home}
   - {title: "Lab", url: "http://ic.kaist.ac.kr/wiki/wiki.cgi?Main"}
   - {title: "Blog", file:"blog.md"}
 
