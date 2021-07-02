@@ -4,7 +4,7 @@ title: "Academic Activities"
 
 ---
 # Research project
-Mobile Health with Data Science and Wearables
+Mobile Health with Data Science and Wearables 2020/9-now
 
 # Conferences
 [Causal Analysis of Observational Mobile Sensor Data: A Comparative Study](/assets/kcc_2021.pdf) \
