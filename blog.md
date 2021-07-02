@@ -1,7 +1,8 @@
 ---
-layout: default
-title: "Blog"
+layout: page
+title: "Conferences"
 
 ---
 
-{% if site.show_excerpts %} {% include home.html %} {% else %} {% include archive.html title="Posts" %} {% endif %}
+# Conferences
+[Download Page](./product/download.html)
