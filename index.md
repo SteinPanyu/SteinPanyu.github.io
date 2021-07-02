@@ -1,6 +1,6 @@
 ---
 layout: page 
-title: "Blog"
+title: "Home"
 ---
 
 I am currently a master student in [ISYSE Department](https://ie.kaist.ac.kr/) at the Korea Advanced Institute of Technology. I am supervised by [Prof. Uichin Lee](http://ic.kaist.ac.kr/wiki/wiki.cgi?UichinLee) in Kaist ICLab. My current research interest is health behavior change in HCI domain. 
