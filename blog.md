@@ -1,8 +1,7 @@
 ---
 layout: page
-
-
 ---
+
 # Research project
 Mobile Health with Data Science and Wearables 2020/9-now
 
