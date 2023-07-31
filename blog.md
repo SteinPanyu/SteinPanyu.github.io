@@ -3,9 +3,9 @@ layout: page
 title: Research project
 ---
 
-Mobile Health with Data Science and Wearables 2020/9-2022/7
+Causal Analysis in Mobile Sensor Data 2020/9-2022/7
 
-Mobile Routine Computing & Affective Sensing 2022/8-now
+Mobile Stress Detection 2022/8-now
 
 # Conferences
 [Causal Analysis of Observational Mobile Sensor Data: A Comparative Study](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10582857) \
