@@ -12,3 +12,7 @@ Mobile Stress Detection 2022/8-now
 2021 한국컴퓨터종합학술대회 \
 Korea Computer Congress 2021 (KCC2021)
 
+# Journals
+Design of Contextual Filtered Features for Better Smartphone-User Receptivity Prediction (co-author, to appear)
+IEEE Internet of Things Journal
+
