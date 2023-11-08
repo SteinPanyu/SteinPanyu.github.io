@@ -9,7 +9,7 @@ I got my bachelor degree from [Beijing Institute of Technology](https://english.
 
 # Research
 Design of Contextual Filtered Features for Better Smartphone-User Receptivity Prediction (co-author, to appear) \
-IEEE Internet of Things Journal \
+IEEE Internet of Things Journal 
 
 [Causal Analysis of Observational Mobile Sensor Data: A Comparative Study](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10582857) \
 2021 한국컴퓨터종합학술대회 \
