@@ -10,4 +10,4 @@ I got my bachelor degree from [Beijing Institute of Technology](https://english.
 # Research
 J. Alikhanov, P. Zhang, Y. Noh and H. Kim, "Design of Contextual Filtered Features for Better Smartphone-User Receptivity Prediction," in IEEE Internet of Things Journal, doi: 10.1109/JIOT.2023.3331715.
 
-Kim, Y., Zhang, P., Jung, G., Kim, H., & Lee, U. (2021). Causal Analysis of Observational Mobile Sensor Data: A Comparative Study. [KCC 2021](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10582857)
+Kim, Y., Zhang, P., Jung, G., Kim, H., & Lee, U. (2021). Causal Analysis of Observational Mobile Sensor Data: A Comparative Study. KCC 2021
