@@ -5,7 +5,7 @@ title: Research project
 
 Causal Analysis in Mobile Sensor Data 2020/9-2022/7
 
-Mobile Stress Detection 2022/8-now
+Mobile Stress/Emotion Detection 2022/8-now
 
 # Conferences
 Kim, Y., Zhang, P., Jung, G., Kim, H., & Lee, U. (2021). Causal Analysis of Observational Mobile Sensor Data: A Comparative Study. KCC 2021
