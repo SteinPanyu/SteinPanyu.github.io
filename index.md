@@ -7,5 +7,5 @@ I am currently a doctoral student in [Graduate School of Data Science](https://i
 
 I got my bachelor degree from [Beijing Institute of Technology](https://english.bit.edu.cn/).
 
-Feel free to drop me an [email](panyu@kse.kaist.ac.kr) if you have any question! 
+Feel free to drop me an email (panyu@kse.kaist.ac.kr) if you have any question! 
 
