@@ -22,7 +22,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:panyu@kse.kaist.ac.kr"}
   - {title: Github, icon: github, url: "https://github.com/SteinPanyu"}
-  - {title: Researchgate, icon: researchgate, url: "https://www.researchgate.net/profile/Panyu-Zhang-2"}
+  - {title: GoogleScholar, icon: GoogleScholar, url: "https://scholar.google.com/citations?user=mc2taOsAAAAJ"}
   - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/panyu-zhang-689a43178/"}
   #- {title: Subscribe, icon: rss, url: "/feed.xml"}
 
