@@ -23,4 +23,4 @@ Yunjo Han, **Panyu Zhang**, Minseo Park, and Uichin Lee. 2024. Systematic Evalua
 
 Jumabek Alikhanov, **Panyu Zhang**, Youngtae Noh, and Hakil Kim, “Design of Contextual Filtered Features for Better Smartphone-User Receptivity Prediction,” IEEE Internet of Things Journal, 2023. DOI: https://doi.org/10.1109/JIOT.2023.3331715.
 
-Yongshin Kim*, **Panyu Zhang***, Gyuwon Jung, Heepyung Kim, and Uichin Lee. 2021. Causal Analysis of Observational Mobile Sensor Data: A Comparative Study. In Proceedings of the Korean Computer Congress (KCC 2021).
+Yongshin Kim\*, **Panyu Zhang\***, Gyuwon Jung, Heepyung Kim, and Uichin Lee. 2021. Causal Analysis of Observational Mobile Sensor Data: A Comparative Study. In Proceedings of the Korean Computer Congress (KCC 2021).
