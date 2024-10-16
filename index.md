@@ -2,16 +2,19 @@
 layout: page 
 title: "About Myself"
 ---
+# Bio
 
-I am currently a doctoral student in [Graduate School of Data Science](https://ie.kaist.ac.kr/) at KAIST in Korea, supervised by [Prof. Uichin Lee](http://ic.kaist.ac.kr/wiki/wiki.cgi?UichinLee) in Kaist ICLab. My current research interest is machine learning for mobile affective computing. My bachelor degree is from [Beijing Institute of Technology](https://english.bit.edu.cn/).
+I am currently a doctoral student in [Graduate School of Data Science](https://ie.kaist.ac.kr/) at KAIST in Korea, supervised by [Prof. Uichin Lee](http://ic.kaist.ac.kr/wiki/wiki.cgi?UichinLee) in Kaist ICLab. My current research interest is **machine learning for mobile affective computing**. My bachelor degree is from [Beijing Institute of Technology](https://english.bit.edu.cn/).
 
 Feel free to drop me an email (panyu@kse.kaist.ac.kr) if you have any question! 
+
 
 # Projects
 
 Mobile Emotion Detection 2022/8-now
 
 Causal Analysis in Mobile Sensor Data 2020/9-2022/7
+
 
 # Publications
 
