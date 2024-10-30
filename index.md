@@ -17,7 +17,7 @@ Causal Analysis in Mobile Sensor Data 2020/9-2022/7
 
 # Publications
 
-Yunjo Han, **Panyu Zhang**, Minseo Park, and Uichin Lee. 2024. Systematic Evaluation of Personalized Deep Learning Models for Affect Recognition. Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. (to appear)
+Yunjo Han, **Panyu Zhang**, Minseo Park, and Uichin Lee. 2024. Systematic Evaluation of Personalized Deep Learning Models for Affect Recognition. Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. 8, 4, Article 206 (December 2024), 35 pages. https://doi.org/10.1145/3699724 (to-appear)
 
 **Panyu Zhang**, Gyuwon Jung, Jumabek Alikhanov, Uzair Ahmed, and Uichin Lee. 2024. A Reproducible Stress Prediction Pipeline with Mobile Sensor Data. Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. 8, 3, Article 143 (August 2024), 35 pages. https://doi.org/10.1145/3678578 (*Presented at Ubicomp 2024*)
 
