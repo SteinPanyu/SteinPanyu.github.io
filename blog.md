@@ -4,9 +4,9 @@ title: Research project
 ---
 # Projects
 
-Mobile Emotion Detection 2022/8-now
+Mobile Emotion Detection 
 
-Causal Analysis in Mobile Sensor Data 2020/9-2022/7
+Causal Analysis in Mobile Sensor Data 
 
 # Publications
 
