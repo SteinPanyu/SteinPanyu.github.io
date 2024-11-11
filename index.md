@@ -38,4 +38,4 @@ I am fortunate enough to have worked with Jumabek Alikhanov and Gyuwon Jung and 
 # Intern Mentoring & Collaboration
 I am proud to have worked with interns [Uzair Ahmed](https://www.linkedin.com/in/uziahmd/?originalSubdomain=pk), [Anis Rashidov](https://www.linkedin.com/in/anis-rashidov-414016156/?originalSubdomain=kr), and [Minseo Park](https://www.linkedin.com/in/minseo-park-0529bb131/?originalSubdomain=kr).
 
-It is an honor to collaborate with [Jumabek Alikhanov](https://github.com/Jumabek), [Gyuwon Jung](https://gw-jung.github.io/), [Yunjo Han](https://www.linkedin.com/in/yunjo-han-667987320/?originalSubdomain=kr), and [Yongshin Kim](https://yong-shin.github.io/).
+It has been an honor to collaborate with [Jumabek Alikhanov](https://github.com/Jumabek), [Gyuwon Jung](https://gw-jung.github.io/), [Yunjo Han](https://www.linkedin.com/in/yunjo-han-667987320/?originalSubdomain=kr), and [Yongshin Kim](https://yong-shin.github.io/).
