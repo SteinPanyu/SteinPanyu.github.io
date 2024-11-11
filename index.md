@@ -31,3 +31,11 @@ Yongshin Kim\*, **Panyu Zhang\***, Gyuwon Jung, Heepyung Kim, and Uichin Lee. 20
 
 I am proud to have worked with interns Uzair Ahmed, Minseo Park, and Anis Rashidov. 
 I am fortunate enough to have worked with Jumabek Alikhanov and Gyuwon Jung and received insights from them. -->
+
+# Teaching
+TA for IoT Data Science - CS565/DS565 2024 Spring
+
+# Intern Mentoring & Collaboration
+I am proud to work with interns [Uzair Ahmed](https://www.linkedin.com/in/uziahmd/?originalSubdomain=pk), [Anis Rashidov](https://www.linkedin.com/in/anis-rashidov-414016156/?originalSubdomain=kr), and [Minseo Park]{https://www.linkedin.com/in/minseo-park-0529bb131/?originalSubdomain=kr}.
+
+I really enjoy the collaboration with [Jumabek Alikhanov]{https://github.com/Jumabek}, [Gyuwon Jung]{https://gw-jung.github.io/}, [Yunjo Han]{https://www.linkedin.com/in/yunjo-han-667987320/?originalSubdomain=kr}, and [Yongshin Kim]{https://yong-shin.github.io/}.
