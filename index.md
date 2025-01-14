@@ -3,7 +3,7 @@ layout: page
 title: "About Myself"
 ---
 
-I am currently a doctoral student in [Graduate School of Data Science](https://ie.kaist.ac.kr/) at KAIST in Korea, supervised by [Prof. Uichin Lee](https://scholar.google.co.kr/citations?user=Sc2pBzYAAAAJ) in Kaist ICLab. I have finished the master degree in the same lab. My bachelor degree is from [Beijing Institute of Technology](https://english.bit.edu.cn/). 
+I am currently a doctoral student in [Graduate School of Data Science](https://ie.kaist.ac.kr/) at KAIST in Korea, supervised by [Prof. Uichin Lee](https://scholar.google.co.kr/citations?user=Sc2pBzYAAAAJ) in KAIST ICLab. I have finished the master degree in the same lab. My bachelor degree is from [Beijing Institute of Technology](https://english.bit.edu.cn/). 
 
 I am currently interested in **machine learning for mobile affective computing**.
 
