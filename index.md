@@ -19,6 +19,9 @@ Causal Analysis in Mobile Sensor Data
 
 # Publications
 
+Panyu Zhang, Gyuwon Jung, Uzair Ahmed, and Uichin Lee. 2025. Causal-CFF: Causal Analysis between User Stress Level and Contextually Filtered Features Extracted from Mobile Sensor Data. In Extended Abstracts of the
+2025 CHI Conference on Human Factors in Computing Systems (to-appear *CHI EA 2025*)
+
 Yunjo Han, **Panyu Zhang**, Minseo Park, and Uichin Lee. 2024. Systematic Evaluation of Personalized Deep Learning Models for Affect Recognition. Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. 8, 4, Article 206 (December 2024), 35 pages. https://doi.org/10.1145/3699724 (*Ubicomp 2025*)
 
 **Panyu Zhang**, Gyuwon Jung, Jumabek Alikhanov, Uzair Ahmed, and Uichin Lee. 2024. A Reproducible Stress Prediction Pipeline with Mobile Sensor Data. Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. 8, 3, Article 143 (August 2024), 35 pages. https://doi.org/10.1145/3678578 (*Ubicomp 2024*)
