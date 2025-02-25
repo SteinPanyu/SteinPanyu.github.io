@@ -36,7 +36,7 @@ I am proud to have worked with interns Uzair Ahmed, Minseo Park, and Anis Rashid
 I am fortunate enough to have worked with Jumabek Alikhanov and Gyuwon Jung and received insights from them. -->
 
 # Teaching
-**TA for IoT Data Science** - CS565/DS565 2024 Spring @ KAIST
+**TA for IoT Data Science** - CS565/DS565 2024, 2025 Spring @ KAIST
 
 # Intern Mentoring & Collaboration
 I am proud to have worked with interns [Uzair Ahmed](https://www.linkedin.com/in/uziahmd/?originalSubdomain=pk), [Anis Rashidov](https://www.linkedin.com/in/anis-rashidov-414016156/?originalSubdomain=kr), and [Minseo Park](https://www.linkedin.com/in/minseo-park-0529bb131/?originalSubdomain=kr).
