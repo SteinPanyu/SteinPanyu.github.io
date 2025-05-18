@@ -29,6 +29,10 @@ Jumabek Alikhanov, **Panyu Zhang**, Youngtae Noh, and Hakil Kim, “Design of Co
 
 Yongshin Kim\*, **Panyu Zhang\***, Gyuwon Jung, Heepyung Kim, and Uichin Lee. 2021. Causal Analysis of Observational Mobile Sensor Data: A Comparative Study. In Proceedings of the Korean Computer Congress (*KCC 2021*).
 
+Bingze Dai, Dequan Yang, Linge Ai and **Panyu Zhang**, "A Novel Video-Surveillance-Based Algorithm of Fall Detection," 2018 11th International Congress on Image and Signal Processing, BioMedical Engineering and Informatics, Beijing, China, 2018, pp. 1-6, doi: 10.1109/CISP-BMEI.2018.8633160. (*CISP-BMEI 2018*)
+
+
+
 <!-- # Collaboration
 
 I am proud to have worked with interns Uzair Ahmed, Minseo Park, and Anis Rashidov. 
