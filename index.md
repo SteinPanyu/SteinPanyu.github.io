@@ -12,6 +12,10 @@ Feel free to drop me an email (panyu@kse.kaist.ac.kr) if you have any question!
 
 # Projects
 
+Routine Computing
+
+IoT/AI for Dementia 
+
 Mobile Emotion Detection 
 
 Causal Analysis in Mobile Sensor Data 
