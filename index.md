@@ -36,14 +36,11 @@ Yongshin Kim\*, **Panyu Zhang\***, Gyuwon Jung, Heepyung Kim, and Uichin Lee. 20
 Bingze Dai, Dequan Yang, Linge Ai and **Panyu Zhang**, "A Novel Video-Surveillance-Based Algorithm of Fall Detection," 2018 11th International Congress on Image and Signal Processing, BioMedical Engineering and Informatics, Beijing, China, 2018, pp. 1-6, doi: 10.1109/CISP-BMEI.2018.8633160. (*CISP-BMEI 2018*)
 
 
-
-<!-- # Collaboration
-
-I am proud to have worked with interns Uzair Ahmed, Minseo Park, and Anis Rashidov. 
-I am fortunate enough to have worked with Jumabek Alikhanov and Gyuwon Jung and received insights from them. -->
-
 # Teaching
 **TA for IoT Data Science** - CS565/DS565 2024, 2025 Spring @ KAIST
+
+# Service
+Reviewer for **IMWUT/UbiComp, CHI LBW**.
 
 # Intern Mentoring & Collaboration
 I am proud to have worked with interns [Uzair Ahmed](https://www.linkedin.com/in/uziahmd/?originalSubdomain=pk), [Anis Rashidov](https://www.linkedin.com/in/anis-rashidov-414016156/?originalSubdomain=kr), and [Minseo Park](https://www.linkedin.com/in/minseo-park-0529bb131/?originalSubdomain=kr).
