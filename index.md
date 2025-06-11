@@ -40,7 +40,7 @@ Bingze Dai, Dequan Yang, Linge Ai and **Panyu Zhang**, "A Novel Video-Surveillan
 **TA for IoT Data Science** - CS565/DS565 2024, 2025 Spring @ KAIST
 
 # Service
-Reviewer for **IMWUT/UbiComp, CHI LBW**.
+Reviewer for **IMWUT/UbiComp, CHI LBW, Scientific Reports**.
 
 # Intern Mentoring & Collaboration
 I am proud to have worked with interns [Uzair Ahmed](https://www.linkedin.com/in/uziahmd/?originalSubdomain=pk), [Anis Rashidov](https://www.linkedin.com/in/anis-rashidov-414016156/?originalSubdomain=kr), and [Minseo Park](https://www.linkedin.com/in/minseo-park-0529bb131/?originalSubdomain=kr).
