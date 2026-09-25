@@ -4,6 +4,8 @@ title: "Publications"
 permalink: /publications/
 ---
 
+**Panyu Zhang**, Minseo Park, Soowon Kang, Tomiris Ismatzoda, Azizbek Mustafakulov, Otabek Najimov, Woohyeok Choi, Jumabek Alikhanov, Surjya Ghosh, and Uichin Lee. 2026. EmoPhone: A Multi-Wave Dataset for In-the-Wild Mobile and Wearable Affect Sensing. To appear in Advances in Neural Information Processing Systems (*NeurIPS 2026 Datasets and Benchmarks Track*). [arXiv](https://arxiv.org/abs/2609.16581)
+
 **Panyu Zhang**, Minseo Park, Tomiris Ismatzoda, Azizbek Mustafakulov, Uzair Ahmed, Otabek Najimov, Jumabek Alikhanov, Surjya Ghosh, and Uichin Lee. 2026. CrossShift: Quantifying Interpersonal Differences in Mobile Sensing for Mental Health. Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. 10, 3, Article 189 (September 2026), 40 pages. https://doi.org/10.1145/3831954 (*Ubicomp 2026*) [pdf](/assets/imwut26a-sub9390-cam-i26.pdf) [code](https://github.com/Kaist-ICLab/CrossShift)
 
 **Panyu Zhang**, Shohruh Shokulov, Humoyunbek Abdukarimov, Jumabek Alikhanov, Surjya Ghosh, and Uichin Lee. 2026. Training-Free Few-Shot Personalization for Mobile Mood Inference with TabPFN. To appear in Companion of the 2026 ACM International Joint Conference on Pervasive and Ubiquitous Computing (*UbiComp Companion '26*), Shanghai, China. ACM. (*DiversityOne D1 Workshop*) [pdf](/assets/ubicomp26-workshop-tabpfn.pdf) [code](https://github.com/Kaist-ICLab/TabPFN_MobileMoodInference)
